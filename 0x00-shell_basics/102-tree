@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -ap1 --group-directories-first | tr '\n' ',' | sed 's/,$/\n/'
+#!/bin/bash 
+mkdir welcome welcome/to welcome/to/school
